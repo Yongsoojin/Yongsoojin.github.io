@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Start"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yong soojin"
+name                     : "Yongsoojin"
 description              : "많이 부족하지만 배우려는 사람."
 url                      : "https://Yongsoojin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
